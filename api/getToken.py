@@ -3,7 +3,7 @@ import json
 from config import CODE, REDIRECT_URL, APP_ID, APP_SECRET
 from helper import *
 
-url += 'v2/user/oauth/token'
+url += '/v2/user/oauth/token'
 
 payload = json.dumps({
   "code": CODE,
