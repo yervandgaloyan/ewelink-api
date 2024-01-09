@@ -1,4 +1,4 @@
 
-APP_ID = ''
-APP_SECRET = ''
+APP_ID = '2Q0aWeJjP6gs7CubSmP8Jvf5f3cRS3x5'
+APP_SECRET = 'C7zjBDtpLcsLAzT7UJPZeGdeiYuf5Yw5'
 REDIRECT_URL = 'http://127.0.0.1:8000/redirectUrl'

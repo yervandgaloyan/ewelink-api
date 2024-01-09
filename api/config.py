@@ -1,9 +1,9 @@
-CODE = ""
+CODE = "565abb59-7cc4-4467-a42a-70c7d358326c"
 REGION = "as"
 REDIRECT_URL = 'http://127.0.0.1:8000/redirectUrl'
 
-APP_ID = ''
-APP_SECRET = ''
+APP_ID = '2Q0aWeJjP6gs7CubSmP8Jvf5f3cRS3x5'
+APP_SECRET = 'C7zjBDtpLcsLAzT7UJPZeGdeiYuf5Yw5'
 
-AT = ''
-RT = ''
+AT = 'e3e18bf1649a9f5c966cac7a899f7961d478f495'
+RT = '5d39f79c1a5bf21538213e83c5a6738361744b98'

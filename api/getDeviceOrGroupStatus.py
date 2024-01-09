@@ -3,7 +3,7 @@ import json
 from helper import *
 from config import AT
 
-device_id = '10017d680c'
+device_id = '1001718605'
 url += f"/v2/device/thing/status?type=1&id={device_id}&params=switch|pulse"
 
 payload = ""
